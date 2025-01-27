@@ -1,4 +1,4 @@
-# 叫妮哥(Call Me Nigger - CNM)
+# 叫妮哥(Call Me Nige - CNM)
 
 基于小天老师<a href="https://killua.app/2025/01/25/%E8%AE%BA%E5%A6%82%E4%BD%95%E9%B2%A8%E5%85%89%E6%8E%A8%E7%89%B9%E5%85%8B%E9%9A%86%E4%BA%BA/" target="blank">论如何鲨光推特克隆人</a>编写的图形化工具！
 

@@ -15,6 +15,8 @@
 
 ### Windows系统
 
+> 我没有Windows所以我没法测试Windows下能不能用
+
 按windows+r，在提示框内输入cmd
 
 弹出黑色窗口后，**复制**你的app.jar文件的路径，然后输入下面的命令
